@@ -82,8 +82,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/N1AKAI/N1AKAI/output/snake.svg" alt="Snake animation" />
 
 ###
