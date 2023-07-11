@@ -81,9 +81,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/N1AKAI/count.svg?"  />
-</div>
-
-###
