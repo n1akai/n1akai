@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Saad and I'm a Full-Stack Developer, from Morocco</h2>
+<h2 align="center">Hi 👋! My name is Saad and I'm a Software Developer, from Morocco</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hello there! I'm a web developer, I create user-friendly and engaging digital experiences. With a strong foundation in front-end and back-end development, I'm constantly expanding my skills to deliver high-quality solutions. Curiosity drives me to explore new technologies and stay up-to-date with industry trends. Let's collaborate to bring your ideas to life!</p>
+<p align="left">Hello there! I'm a Sofware Developer, crafting intuitive and dynamic digital solutions. With background in building responsive web applications and mobile apps, I'm constantly expanding my skills to deliver high-quality solutions. Curiosity drives me to explore new technologies and stay up-to-date with industry trends. Let's collaborate to bring your ideas to life!</p>
 
 ###
 
