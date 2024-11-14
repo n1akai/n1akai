@@ -11,13 +11,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
 </div>
 
 ###
@@ -26,6 +23,10 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=n1akai&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML,CSS,Blade,Hack"
     media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=n1akai&show_icons=true&locale=en&layout=compact&hide=HTML,CSS,Blade,Hack"
+    media="(prefers-color-scheme: light)"
   />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n1akai&show_icons=true&locale=en&layout=compact&hide=HTML,CSS,Blade,Hack" />
 </picture>
